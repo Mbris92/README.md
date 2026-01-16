@@ -1,6 +1,3 @@
 # README.md
-Tableau Project for TripleTen
-https://public.tableau.com/app/profile/mikal.brisbon/viz/TripleTenSprint5/Sheet5?publish=yes
-
 Return Rate Analysis Dashboard
-https://public.tableau.com/app/profile/mikal.brisbon/viz/ReturnRateAnalysisDashboard/ReturnRateAnalysis?publish=yes
+https://public.tableau.com/app/profile/mikal.brisbon/viz/TableauReturnRate/ReturnRateAnalysis?publish=yes
